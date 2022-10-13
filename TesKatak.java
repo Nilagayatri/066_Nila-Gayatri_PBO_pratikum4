@@ -2,7 +2,7 @@ package Praktikum4;
 
 /**
  *
- * @author YudaPratam
+ * @author nila gayatri
  */
 public class TesKatak {
     public static void main(String[] args) {
